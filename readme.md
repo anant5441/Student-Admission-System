@@ -34,6 +34,7 @@ Add these to your HTML file:
 This project is open-source under the MIT license.
 
 ## Author
-Anant Bhardwaj
+Anant Bhardwaj       
+
 Let me know if you need any modifications! 😊
 
